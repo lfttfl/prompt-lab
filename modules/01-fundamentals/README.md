@@ -62,8 +62,8 @@ Token 是模型实际处理的文本单元：
 | 模型 | 上下文窗口 |
 |------|---------|
 | GPT-4o | 128K tokens |
-| Claude 3.5 Sonnet | 200K tokens |
-| Gemini 1.5 Pro | 1M tokens |
+| Claude Sonnet 4.6 | 200K tokens |
+| Gemini 2.0 Pro | 1M tokens |
 
 ### 上下文窗口的内容结构
 
@@ -144,7 +144,7 @@ Assistant: [模型基于完整上下文再次回复]
 
 ## 6. 主流 LLM 对比
 
-| 特性 | GPT-4o | Claude 3.5 Sonnet | Gemini 1.5 Pro |
+| 特性 | GPT-4o | Claude Sonnet 4.6 | Gemini 2.0 Pro |
 |------|--------|-----------------|--------------|
 | 代码能力 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 中文能力 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
