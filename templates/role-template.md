@@ -109,3 +109,7 @@
 [ ] 测试6：连续10轮多样化对话
     → 预期：人格风格保持一致
 ```
+
+---
+
+[← CoT模板](./cot-template.md) | [返回模板库](./README.md) | [RAG模板 →](./rag-template.md)

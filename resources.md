@@ -4,14 +4,14 @@
 
 | 论文 | 核心贡献 | 对应模块 |
 |------|---------|--------|
-| Chain-of-Thought Prompting Elicits Reasoning (Wei et al., 2022) | 思维链提示的原始论文 | 模块04 |
-| Self-Consistency Improves Chain of Thought Reasoning (Wang et al., 2022) | 自洽性采样提升推理准确率 | 模块04 |
-| Large Language Models are Zero-Shot Reasoners (Kojima et al., 2022) | "Let's think step by step"的理论基础 | 模块04 |
-| Tree of Thoughts (Yao et al., 2023) | 树状推理结构 | 模块04 |
-| Lost in the Middle (Liu et al., 2023) | 上下文位置影响模型注意力 | 模块01 |
-| ReAct: Synergizing Reasoning and Acting (Yao et al., 2022) | Reasoning + Acting Agent框架 | 模块07 |
-| Constitutional AI (Bai et al., 2022) | AI安全与对齐的实践方法 | 模块08 |
-| Prompt Injection Attacks (Perez & Ribeiro, 2022) | 提示词注入攻击分析 | 模块08 |
+| [Chain-of-Thought Prompting Elicits Reasoning (Wei et al., 2022)](https://arxiv.org/abs/2201.11903) | 思维链提示的原始论文 | [模块04](./modules/04-chain-of-thought/README.md) |
+| [Self-Consistency Improves Chain of Thought Reasoning (Wang et al., 2022)](https://arxiv.org/abs/2203.11171) | 自洽性采样提升推理准确率 | [模块04](./modules/04-chain-of-thought/README.md) |
+| [Large Language Models are Zero-Shot Reasoners (Kojima et al., 2022)](https://arxiv.org/abs/2205.11916) | "Let's think step by step"的理论基础 | [模块04](./modules/04-chain-of-thought/README.md) |
+| [Tree of Thoughts (Yao et al., 2023)](https://arxiv.org/abs/2305.10601) | 树状推理结构 | [模块04](./modules/04-chain-of-thought/README.md) |
+| [Lost in the Middle (Liu et al., 2023)](https://arxiv.org/abs/2307.03172) | 上下文位置影响模型注意力 | [模块01](./modules/01-fundamentals/README.md) |
+| [ReAct: Synergizing Reasoning and Acting (Yao et al., 2022)](https://arxiv.org/abs/2210.03629) | Reasoning + Acting Agent框架 | [模块07](./modules/07-advanced-techniques/README.md) |
+| [Constitutional AI (Bai et al., 2022)](https://arxiv.org/abs/2212.08073) | AI安全与对齐的实践方法 | [模块08](./modules/08-safety-alignment/README.md) |
+| Prompt Injection Attacks (Perez & Ribeiro, 2022) | 提示词注入攻击分析 | [模块08](./modules/08-safety-alignment/README.md) |
 
 ---
 
@@ -56,13 +56,13 @@
 ## 配套本课程的阅读顺序
 
 ```
-第1-2周  → Anthropic官方文档基础部分
-第3-4周  → Learn Prompting 结构化章节
-第5-6周  → dair-ai Prompt Engineering Guide Few-shot部分
-第7-8周  → Wei et al. 2022 CoT原论文（值得精读）
-第9-10周 → OpenAI Prompt Engineering Guide
-第11周   → ReAct论文 + LangChain Agent文档
-第12周   → Constitutional AI + Prompt Injection论文
+第1-2周（模块01-02）→ Anthropic官方文档基础部分
+第3-4周（模块02）   → Learn Prompting 结构化章节
+第5-6周（模块03）   → dair-ai Prompt Engineering Guide Few-shot部分
+第7-8周（模块04）   → Wei et al. 2022 CoT原论文（值得精读）
+第9-10周（模块05）  → OpenAI Prompt Engineering Guide
+第11周（模块06-07） → ReAct论文 + LangChain Agent文档
+第12周（模块08）    → Constitutional AI + Prompt Injection论文
 ```
 
 ---

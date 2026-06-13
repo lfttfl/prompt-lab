@@ -151,3 +151,7 @@ def rag_pipeline(user_question: str, knowledge_base_search_fn) -> dict:
 | 引用格式不一致 | 未明确引用格式 | 在提示词中提供引用格式示例 |
 | 回答过长 | 未限制长度 | 加入字数限制；或分"摘要版"和"详细版"模式 |
 | 幻觉率高 | 缺少引用验证 | 启用步骤3的验证提示词 |
+
+---
+
+[← 角色设计模板](./role-template.md) | [返回模板库](./README.md)
