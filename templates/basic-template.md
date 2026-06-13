@@ -98,3 +98,7 @@
 | 信息提取 | Task + Format + Constraints | Role |
 | 分析报告 | Role + Task + Context + Format | Examples |
 | 格式转换 | Task + Format + Examples | Role + Context |
+
+---
+
+← [返回模板库](./README.md) | [CoT模板 →](./cot-template.md)

@@ -159,3 +159,7 @@ def self_consistent_analysis(question: str, n_runs: int = 5) -> str:
 | 复杂商业分析 | 模板3（结构化报告）| 全面系统，可审阅 |
 | 多选项决策 | 模板4（对比分析）| 量化比较，减少主观 |
 | 高准确率需求 | 模板5（Self-consistency）| 代价高但最准确 |
+
+---
+
+[← 基础结构模板](./basic-template.md) | [返回模板库](./README.md) | [角色设计模板 →](./role-template.md)
